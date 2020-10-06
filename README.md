@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/VICXOR/FlagPoacher">
-    <img src="https://i.imgur.com/wLiDWjE.png" alt="Logo">
+    <img src="https://i.imgur.com/wLiDWjE.png" alt="Logo" width="150" height="250">
   </a>
 
   <h3 align="center">FlagPoacher</h3>
