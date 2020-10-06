@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/VICXOR/FlagPoacher">
+  <a href="https://github.com/VICXOR/FlagPoacher/blob/main/FlagPoacher.py">
     <img src="https://i.imgur.com/wLiDWjE.png" alt="Logo" width="150" height="250">
   </a>
 
@@ -13,3 +13,16 @@
     <br />
   </p>
 </p>
+
+## Getting Started
+<p align="center">
+Clone this repository, then you will be able to use FlagPoacher.py and modify the source code if needed. 
+</p>
+
+## Usage
+ ```sh
+python FlagPoacher.py url wordlist flagformat
+```
+<a href="https://github.com/VICXOR/FlagPoacher/blob/main/FlagPoacher.py">
+    <img src="https://i.imgur.com/AREYTvX.png" alt="flagpoacher">
+  </a>
